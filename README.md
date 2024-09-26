@@ -1,8 +1,6 @@
 <h1 align="center">Hello👋, I'm Ziad</h1>
 <h3 align="center">FCIS Student, Data Scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadelsamanody" alt="ziadelsamanody" /></a> </p>
-
 - 🌱 I’m currently learning **TensorFlow**
 
 - 💬 Ask me about **Python, Matplotlib, TensorFlow**
