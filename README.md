@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Ziad</h1>
 <h3 align="center">FCIS Student, Machine learning Engnieer</h3>
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Pytorch**
 
 - 💬 Ask me about **Python, Matplotlib, TensorFlow**
 
