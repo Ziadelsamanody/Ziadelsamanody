@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Ziad</h1>
 <h3 align="center">FCIS Student, Machine learning Engineer</h3>
 
-- 🌱 I'm currently learning **Pytorch**
+- 🌱 I'm currently learning **Computer Vision**
 - 💬 Ask me about **Python, Matplotlib, TensorFlow**
 - 📫 How to reach me **ziadelsamanody@gmail.com**
 
