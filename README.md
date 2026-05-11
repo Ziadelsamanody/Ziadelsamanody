@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=Ziadelsamanody&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ziadelsamanody&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Favourite Quote
 > *Algebra is like sheet music. The important thing isn't can you read music, it's can you hear it.*
 >
 > — **Niels Bohr**
