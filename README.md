@@ -13,8 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ziadelsamanody&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-<blockquote>
-  <p><i><span style="color: #FFD700;">“</span><span style="color: #00FFFF;">Algebra is like a sheet of music. The important thing isn’t can you read music, it’s can you hear it.</span><span style="color: #FFD700;">”</span></i></p>
-  <p align="right"><i><span style="color: #FF1493;">- Niels Bohr </span></i></p>
-</blockquote>
+> *Algebra is like sheet music. The important thing isn't can you read music, it's can you hear it.*
+>
+> — **Niels Bohr**
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
