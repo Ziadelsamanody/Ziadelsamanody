@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Computer Vision<br>💬 Ask me about DL, Generative Models<br>📫 How to reach me ziadelsamanody@gmail.com
+🌱 I’m currently learn Computer Vision<br>💬 Ask me about DL, Generative Models<br>📫 How to reach me ziadelsamanody@gmail.com
 
 
 ## 🌐 Socials:
